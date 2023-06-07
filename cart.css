@@ -1,0 +1,289 @@
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin-left: 50px;
+  text-align: center;
+  font-family: arial;
+}
+.text {
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  font-size: xxx-large;
+}
+.card-title {
+  font-weight: bold;
+  padding-bottom: 5%;
+}
+.wayout {
+  padding-top: 5%;
+  padding-right: 15%;
+}
+.texture {
+  font-weight: bolder;
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  font-size: xxx-large;
+}
+.author {
+  font-weight: bolder;
+  color: cornflowerblue;
+  text-align: right;
+}
+.comma {
+  font-weight: bolder;
+  color: cornflowerblue;
+  padding-right: 90%;
+}
+.textese {
+  text-align: left;
+}
+.footer {
+  background-image: url("img/Rectangle 4457.png");
+  size: unset;
+  align-items: center;
+  padding-left: 5%;
+}
+.foots {
+  font-weight: bolder;
+  color: white;
+  text-align: center;
+  font-size: large;
+}
+.button2 {
+  text-align: center;
+  color: turquoise;
+}
+.contain {
+  background-color: #333333;
+}
+.AMJ {
+  font-family: "Montserrat";
+  font-style: normal;
+  color: white;
+  padding-right: 50%;
+  padding-top: 13%;
+  padding-bottom: 10%;
+  padding-left: 0%;
+  font-size: 30px;
+  line-height: 49px;
+  font-weight: 700px;
+  width: min-content;
+  font-weight: bolder;
+}
+.QUICK {
+  text-align: center;
+  font-weight: bolder;
+  color: white;
+}
+.desingn {
+  font-weight: bolder;
+  color: white;
+}
+.background {
+  background-image: url(img/annie-gray-WEWTGkPUVT0-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-bottom: 5%;
+  min-height: 40%;
+  position: relative;
+  background-color: gray;
+  background-blend-mode: multiply;
+}
+.name {
+  font-weight: bolder;
+  color: white;
+  /* padding-bottom: ; */
+  padding-right: 51%;
+  padding-top: 29%;
+  text-decoration-style: solid;
+  font-size: 295%;
+  float: left;
+  margin-right: 20px;
+  text-align: justify;
+}
+.background1 {
+  background-image: url();
+}
+.body {
+  background: #007bff;
+  background: linear-gradient(to right, #0062e6, #33aeff);
+}
+
+.bg-image {
+  background-image: url("https://source.unsplash.com/kKvQJ6rK6S4/660x1000");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.form22 {
+  padding-left: 20%;
+  width: 80%;
+  height: 80%;
+}
+.form3 {
+  position: absolute;
+  top: 5%;
+  right: 15%;
+  font-weight: bolder;
+  height: 80%;
+  width: 23%;
+  background-color: grey;
+  border-radius: 20px;
+  padding-right: 70px;
+  padding-left: 70px;
+  z-index: 20;
+}
+.btnbtnbtn {
+  background-color: #008cba; /* Green */
+  border: none;
+  color: white;
+  padding: 8px 34px;
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 18px;
+}
+.buttonss2 {
+  font-weight: bolder;
+  color: white;
+  text-align: center;
+}
+.pads {
+  /* margin-left: 0; */
+  width: 90%;
+  margin: auto;
+  height: 200%;
+}
+.picture {
+  padding-right: 0%;
+}
+.btn.btn-primary {
+  text-align: center;
+  font-size: large;
+}
+.end {
+  background-color: black;
+  color: white;
+  text-align: center;
+
+  top: 99.21%;
+  bottom: 0.26%;
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 47px;
+  text-align: center;
+  padding: 10px 0;
+}
+.endcolorblue {
+  color: #0d86f7;
+}
+.editpic {
+  display: flex;
+}
+.color {
+  color: #0d86f7;
+  text-align: left;
+  padding-top: 8%;
+  padding-left: 15%;
+  font-weight: bolder;
+}
+.colors {
+  font-weight: bolder;
+  color: white;
+  padding-left: 15%;
+  font-weight: bolder;
+  font-size: xxx-large;
+}
+.ccs {
+  background-color: #2b2b2b;
+  height: 697px;
+  width: 50%;
+}
+.textes {
+  text-align: left;
+  color: white;
+  padding-left: 15%;
+  padding-top: 2%;
+  font-family: ui-monospace;
+  padding-right: 7%;
+}
+.sizing {
+  height: 697px;
+  width: 66%;
+}
+.icon1 {
+  position: absolute;
+  padding-left: 14%;
+  padding-top: 4%;
+}
+.ssd {
+  color: black;
+  font-weight: bolder;
+  text-align: left;
+}
+.sdd {
+  color: #000000;
+  font-family: ui-monospace;
+  text-align: left;
+  padding-left: 1%;
+}
+.border {
+  border-radius: 10px;
+  border-color: #000000;
+  height: 216px;
+}
+.margin {
+  margin-left: 20%;
+}
+.icon2 {
+  position: absolute;
+}
+.div-fl {
+  position: relative;
+  display: flex;
+  height: 220px;
+}
+
+.styles {
+  position: absolute;
+  top: 32%;
+  left: -7%;
+}
+.services-sec-img {
+  position: absolute;
+  top: 32%;
+  left: -11%;
+  padding: 22px;
+  padding-left: 10%;
+  padding: 8px;
+  padding-left: 1%;
+}
+.services-sec-text {
+  padding: 22px;
+  padding-left: 10%;
+}
+.start-padding {
+  padding-top: 6%;
+}
+.rpbtn {
+  padding-top: 10%;
+  padding-right: 79%;
+  font-weight: bolder;
+}
+.paracc {
+  text-align: left;
+  font-size: large;
+}
+.cctitle {
+  padding-top: 4%;
+  font-family: inherit;
+}

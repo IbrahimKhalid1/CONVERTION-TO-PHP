@@ -1,0 +1,17 @@
+.GPMAin {
+  text-align: center;
+  font-weight: bolder;
+  padding-left: 6%;
+  padding-top: 5%;
+}
+.programpannel {
+  margin-top: 5%;
+  text-align: left;
+  font-size: revert;
+}
+.theticks {
+  text-align: left;
+}
+.display-flex {
+  display: flex;
+}

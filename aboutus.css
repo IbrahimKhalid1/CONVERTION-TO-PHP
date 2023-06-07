@@ -1,0 +1,62 @@
+.AU-B-pic {
+  background-image: url("img/annie-gray-WEWTGkPUVT0-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background: rgba(blue);
+  width: 100%;
+  height: 100%;
+  padding: 190px;
+  background-color: #00abff;
+  background-blend-mode: soft-light;
+}
+.ABOUTUSPANNEl {
+  font-weight: bolder;
+  color: white;
+  font-size: xxx-large;
+  text-align: center;
+}
+.TEXTINBEt {
+  text-align: center;
+  font-weight: bolder;
+  font-size: xx-large;
+  padding-top: 7%;
+}
+.textbew {
+  text-align: left;
+  padding-left: 20%;
+  padding-right: 2%;
+  font-size: medium;
+}
+.imgbt {
+  padding-top: 10%;
+  justify-content: space-between;
+}
+.PGPANNEL {
+  font-weight: bolder;
+  color: black;
+  text-align: left;
+  font-size: xx-large;
+  padding-bottom: 5%;
+}
+.middle-discription {
+  background-color: #0d86f7;
+  width: 100%;
+  color: white;
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.WOCS {
+  text-align: center;
+  font-weight: bolder;
+  font-size: xxx-large;
+}
+.mainss {
+  font-weight: bolder;
+  font-size: x-large;
+}
+.adjusts {
+  text-align: center;
+  font-size: medium;
+}
